@@ -6,7 +6,6 @@ Front- and backend game developer.
 
 I have 3 years of experience in Luau, half a year in HTML and 3 years of experience in 3D animating.
 
-* 🌍  I'm based in Denmark
 * ✉️  You can contact me at [lostnoobbusiness@gmail.com](mailto:lostnoobbusiness@gmail.com)
 * 🧠  I'm learning HTML
 * 🤝  I'm open to collaborating on everything
